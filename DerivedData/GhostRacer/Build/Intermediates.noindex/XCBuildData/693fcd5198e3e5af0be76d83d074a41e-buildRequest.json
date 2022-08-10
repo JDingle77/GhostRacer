@@ -1,0 +1,51 @@
+{
+  "buildCommand" : "prepareForIndexing",
+  "configuredTargets" : [
+    {
+      "guid" : "dae0e911149691eaaea57582af96945bcb193b2da7d487928b9e23729c468283"
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx11.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/jamesdingle/Documents/Code/GhostRacer/DerivedData/GhostRacer/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/jamesdingle/Documents/Code/GhostRacer/DerivedData/GhostRacer/Build/Products",
+      "derivedDataPath" : "/Users/jamesdingle/Documents/Code/GhostRacer/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/jamesdingle/Documents/Code/GhostRacer/DerivedData/GhostRacer/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/jamesdingle/Documents/Code/GhostRacer/DerivedData/GhostRacer/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/jamesdingle/Documents/Code/GhostRacer/DerivedData/GhostRacer/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
